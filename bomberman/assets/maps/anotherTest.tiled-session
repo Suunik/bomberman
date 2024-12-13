@@ -1,0 +1,80 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "testMap.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "CrateWall/CrateWall.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5466
+        },
+        "CrateWall/crate.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "background/BackGround.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "background/brownBackground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "background/greenBackground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "background/woodBackground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "background/yellowBackground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "block/Block.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "testMap.tmx": {
+            "scale": 0.8328333333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 318.1909145487293,
+                "y": 329.5977586551931
+            }
+        }
+    },
+    "last.imagePath": "D:/iti0301-2023/bomberman/assets/background",
+    "map.height": 13,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 60,
+    "map.tileWidth": 60,
+    "map.width": 15,
+    "openFiles": [
+        "testMap.tmx",
+        "background/greenBackground.tsx"
+    ],
+    "project": "anotherTest.tiled-project",
+    "recentFiles": [
+        "background/greenBackground.tsx",
+        "testMap.tmx",
+        "background/yellowBackground.tsx",
+        "background/woodBackground.tsx",
+        "background/brownBackground.tsx",
+        "block/Block.tsx",
+        "CrateWall/crate.tsx",
+        "background/BackGround.tsx",
+        "CrateWall/CrateWall.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 60,
+        "width": 60
+    }
+}
